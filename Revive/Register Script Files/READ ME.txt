@@ -1,0 +1,6 @@
+
+I added this project for the sole purpose of making it easier to register Windows to open .ris files with the ReVive update program. You will want to incorporate some variation of this code to do this for clients computers if you will be using one ReVive installation to update numerous applications.
+
+This can also be accomplished on client computers by checking RegRISFiles in the new script form when creating you script. ReVive will accomplish the .ris file registration for you each time it is executed on the client providing the user is an admin.
+
+Chris

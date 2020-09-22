@@ -1,0 +1,20 @@
+:Base ReVive.hlp
+:Title ReVive LiveUpdate
+1 What is ReVive LiveUpdate?=Introduction>Main
+1 ReVive LiveUpdate Overview=Overview>Main
+1 ReVive File Types=FileTypes>Main
+1 ReVive Run Modes=RunModes>Main
+1 Getting Started Step-By-Step
+2 Important Caveats=Caveats>Main
+2 Step 1: Select an Update Strategy=Strategies>Main
+2 Step 2: Create an Update Script=CreateScript>Main
+2 Step 3: Create an Initialization Script=Initialization>Main
+2 Step 4: Prepare ReVive Distribution=DistroReq>Mani
+2 Step 5: Start an Update Session=Start>Main
+1 Using the ReVive Script Editor
+2 Setup Section=Setup>Main
+2 Files Section=Files>Main
+2 Script Directory Constants=Constants>Main
+1 The ReVive Open Source Community
+2 ReVive LiveUpdate Contributors=Contributors>Main
+2 Join the ReVive Mailing List=MailingList>Main

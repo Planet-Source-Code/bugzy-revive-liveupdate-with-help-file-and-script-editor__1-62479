@@ -1,0 +1,50 @@
+
+;Created by Chris on 06 Sep 2005
+;Sample Project - ReVive Web Update Script
+
+[Setup]
+	AdminRequired=	False
+	ForceReboots=	False
+	ShowFileIcons=	True
+	RegRISFiles=	False
+	AppShortName=	Sample Project
+	AppLongName=	ReVive PSC Demonstration Project
+	ScriptURLPrim=	http://members.cox.net/software.updates/PSC/PSCSample.rus
+	ScriptURLAlt=	http://members.cox.net/software.updates/PSC/PSCSample.rus
+	NotifyIcon=		http://members.cox.net/software.updates/PSC/ReVive.ico
+
+[File 01]
+	Description=	ReVive Version Information File
+	UpdateVersion=	1.0.0.0
+	DownloadURL=	http://members.cox.net/software.updates/PSC/docVERSION.rtf
+	InstallPath=	<ap>\docVERSION.rtf
+	FileSize=		8120
+	MustUpdate=		False
+	MustExist=		False
+
+[File 02]
+	Description=	ReVive LiveUpdate Script Editor
+	UpdateVersion=	1.0.0.0
+	DownloadURL=	http://members.cox.net/software.updates/PSC/ScriptEditor.exe
+	InstallPath=	<ap>\ScriptEditor.exe
+	FileSize=		229376
+	MustUpdate=		False
+	MustExist=		False
+
+[File 03]
+	Description=	ReVive Demonstration Executable
+	UpdateVersion=	1.0.0.0
+	DownloadURL=	http://members.cox.net/software.updates/PSC/ReViveSampleApp.exe
+	InstallPath=	<ap>\ReViveSampleApp.exe
+	FileSize=		28672
+	MustUpdate=		False
+	MustExist=		False
+
+[File 04]
+	Description=	ccXPButton User Control
+	UpdateVersion=	1.0.0.0
+	DownloadURL=	http://members.cox.net/software.updates/PSC/ccXPButton.ctl
+	InstallPath=	<ap>\ccXPButton.ctl
+	FileSize=		46755
+	MustUpdate=		False
+	MustExist=		False

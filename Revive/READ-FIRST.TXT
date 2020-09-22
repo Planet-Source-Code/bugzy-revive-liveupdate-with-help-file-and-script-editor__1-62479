@@ -1,0 +1,6 @@
+
+The sample application requires the ReVive project to be compiled before it can be used to demonstrate functionality. Please compile the ReVive project to the "SAMPLE APP" folder before running the sample project.
+
+After compiling the ReVive.exe, open the SAMPLE APP folder and run the sample project.
+
+cwc.software@gmail.com

@@ -1,0 +1,19 @@
+
+Sample Project ReVive Initialization Script
+
+--------------------------------------------------------------------------------
+***WARNING: MODIFYING THIS SCRIPT MAY CAUSE LIVEUPDATE TO FUNCTION IMPROPERLY***
+
+[Setup]
+AppShortName=Sample Project
+AppLongName=ReVive PSC Demonstration Project
+ScriptURLPrim=อสÝๆ”รฮใวทืษ—ูิส“ฤฮ๊”ลิผÝํฦฤสÞๆษณูปÜฅตฅจ…พๆษณูปถÛุลฦฝฮคืวุ
+ScriptURLAlt=อสÝๆ”รฮใวทืษ—ูิส“ฤฮ๊”ลิผÝํฦฤสÞๆษณูปÜฅตฅจ…พๆษณูปถÛุลฦฝฮคืวุ
+LastChecked=20 May 2006
+
+[Files]
+ReVive Version Information File=1.0.0.0
+ccXPButton User Control=1.0.0.0
+
+***WARNING: MODIFYING THIS SCRIPT MAY CAUSE LIVEUPDATE TO FUNCTION IMPROPERLY***
+--------------------------------------------------------------------------------

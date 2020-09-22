@@ -1,0 +1,5 @@
+VBGROUP 5.0
+Project=Script Editor\ScriptEditor.vbp
+StartupProject=ReVive LiveUpdate\ReVive.vbp
+Project=Register Script Files\RegisterScriptFiles.vbp
+Project=SAMPLE APP\ReViveSampleApp.vbp
